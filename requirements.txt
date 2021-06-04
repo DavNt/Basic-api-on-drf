@@ -1,4 +1,4 @@
-django==2.2.18
+django==2.2.21
 djangorestframework==3.9.2
 requests==2.23.0
 python==3.7.6
